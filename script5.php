@@ -1,4 +1,4 @@
-http://talkerscode.com/webtricks/demo/demo_create-password-protected-webpage-using-php-html-and-css.php
+
 	<?php
 
 	ini_set('max_execution_time',0);
